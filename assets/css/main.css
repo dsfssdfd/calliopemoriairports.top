@@ -89,13 +89,13 @@ ul, ol { list-style: none; }
 
 /* Headline
 /* ================================================= */
-.vi {
+.CalliopeMori {
   margin: 100px auto 0;
   max-width: 780px;
 }
 
 @media (max-width: 767px) {
-  .vi { margin-top: 50px; }
+  .CalliopeMori { margin-top: 50px; }
 }
 
 
